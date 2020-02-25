@@ -1,0 +1,6 @@
+C:\Users\mmm\Desktop\C#\4\4_1\bin\Debug\4_1.exe.config
+C:\Users\mmm\Desktop\C#\4\4_1\bin\Debug\4_1.exe
+C:\Users\mmm\Desktop\C#\4\4_1\bin\Debug\4_1.pdb
+C:\Users\mmm\Desktop\C#\4\4_1\obj\Debug\4_1.csprojAssemblyReference.cache
+C:\Users\mmm\Desktop\C#\4\4_1\obj\Debug\4_1.exe
+C:\Users\mmm\Desktop\C#\4\4_1\obj\Debug\4_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\mmm\source\repos\4_4\obj\Debug\4_4.csprojAssemblyReference.cache
+C:\Users\mmm\source\repos\4_4\bin\Debug\4_4.exe.config
+C:\Users\mmm\source\repos\4_4\bin\Debug\4_4.exe
+C:\Users\mmm\source\repos\4_4\bin\Debug\4_4.pdb
+C:\Users\mmm\source\repos\4_4\obj\Debug\4_4.exe
+C:\Users\mmm\source\repos\4_4\obj\Debug\4_4.pdb
